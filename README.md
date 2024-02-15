@@ -6,4 +6,6 @@ To install the extension follow given steps:
 - Click on Load unpacked button and select the directory you cloned.
 - The PopUp extenstion will be added to chrome and you can pin it from the extension icon.
 
-![Screenshot](popup.png)
+<p align="center">
+  <img src="popup.png" width="350" title="hover text">
+</p>
