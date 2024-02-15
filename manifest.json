@@ -1,0 +1,17 @@
+{
+  "name": "PopUp",
+  "description": "A Google Chrome extension!",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+	"default_popup": "index.html"
+	},
+  "permissions": [
+		"contextMenus",
+		"notifications",
+		"storage"
+	],
+  "background": {
+	  "service_worker": "background.js"
+	}
+}
